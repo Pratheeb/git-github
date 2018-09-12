@@ -1,1 +1,1 @@
-this is a test ear file
+this is a test war file
